@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics.Tracing;
-using System.Runtime.ExceptionServices;
-using System.Text;
 
 namespace Subtask_2
 {
