@@ -8,10 +8,8 @@ namespace Subtask_1
 		private int _m;
 		private int[,] _matrix;
 
-		public SpiralSnakeMatrix(int cols, int rows)
-		{
-			CreateNewMatrix(cols, rows);
-		}
+		public SpiralSnakeMatrix(int cols, int rows) => CreateNewMatrix(cols, rows);
+	
 
 		public void CreateNewMatrix(int cols, int rows)
 		{
